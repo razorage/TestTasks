@@ -1,0 +1,8 @@
+{
+  "support": {
+    "message": "Контакты технической поддержки",
+    "general": {
+      "startWeekDay": Понедельник",
+      "endWeekDay": "Суббота"
+    }
+}
