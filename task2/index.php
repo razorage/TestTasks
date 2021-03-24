@@ -32,7 +32,7 @@
 
 
    echo '<br><br>Измененный файл <br>';
-   echo 'Файл: '.basename('./files/input.csv').'<br>';
+   echo 'Файл: '.basename('./files/output.csv').'<br>';
    echo $streetBase->createFile('./files/input.csv', './files/output.csv');
    echo $streetBase->readFile('./files/output.csv'); //получить данные из файла
 
